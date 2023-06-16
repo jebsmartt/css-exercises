@@ -1,0 +1,18 @@
+.standard_p {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 182, 193);
+}
+
+.big_font {
+    font-size: 24px;
+}
+
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number_4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
